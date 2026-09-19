@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Git & GitHub",
+    "platform": "GitHub Skills",
+    "skills": [
+      "Git"
+    ],
+    "url": "https://skills.github.com/"
+  },
+  {
+    "title": "Django Tutorial",
+    "platform": "Django",
+    "skills": [
+      "Django",
+      "Python"
+    ],
+    "url": "https://docs.djangoproject.com/en/stable/intro/tutorial01/"
+  },
+  {
+    "title": "REST API Tutorial",
+    "platform": "MDN",
+    "skills": [
+      "REST API"
+    ],
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Client-Server_overview"
+  },
+  {
+    "title": "Python for Everybody",
+    "platform": "Coursera",
+    "skills": [
+      "Python"
+    ],
+    "url": "https://www.coursera.org/specializations/python"
+  },
+  {
+    "title": "Pandas User Guide",
+    "platform": "pandas",
+    "skills": [
+      "Pandas",
+      "Python"
+    ],
+    "url": "https://pandas.pydata.org/docs/user_guide/index.html"
+  },
+  {
+    "title": "NumPy Learn",
+    "platform": "NumPy",
+    "skills": [
+      "NumPy",
+      "Python"
+    ],
+    "url": "https://numpy.org/learn/"
+  },
+  {
+    "title": "Machine Learning Crash Course",
+    "platform": "Google",
+    "skills": [
+      "Machine Learning",
+      "Python"
+    ],
+    "url": "https://developers.google.com/machine-learning/crash-course"
+  },
+  {
+    "title": "Power BI Learning",
+    "platform": "Microsoft Learn",
+    "skills": [
+      "Power BI"
+    ],
+    "url": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi/"
+  },
+  {
+    "title": "JavaScript Guide",
+    "platform": "MDN",
+    "skills": [
+      "JavaScript"
+    ],
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+  },
+  {
+    "title": "React Learn",
+    "platform": "React",
+    "skills": [
+      "React",
+      "JavaScript"
+    ],
+    "url": "https://react.dev/learn"
+  },
+  {
+    "title": "Data Structures & Algorithms",
+    "platform": "GeeksforGeeks",
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "Problem Solving"
+    ],
+    "url": "https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/"
+  },
+  {
+    "title": "HTML & CSS",
+    "platform": "MDN",
+    "skills": [
+      "HTML",
+      "CSS"
+    ],
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content"
+  },
+  {
+    "title": "SQL Tutorial",
+    "platform": "W3Schools",
+    "skills": [
+      "SQL"
+    ],
+    "url": "https://www.w3schools.com/sql/"
+  }
+]
