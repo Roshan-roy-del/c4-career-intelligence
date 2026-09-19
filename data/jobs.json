@@ -1,0 +1,81 @@
+[
+  {
+    "title": "Python Developer Intern",
+    "company": "NovaStack Labs",
+    "location": "Ahmedabad",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Git",
+      "Django",
+      "REST API"
+    ],
+    "description": "Backend engineering internship focused on Python services."
+  },
+  {
+    "title": "Data Analyst Intern",
+    "company": "InsightGrid",
+    "location": "Ahmedabad",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Excel",
+      "Power BI",
+      "Statistics"
+    ],
+    "description": "Analytics role working with business datasets and dashboards."
+  },
+  {
+    "title": "AI / ML Intern",
+    "company": "NeuralForge",
+    "location": "Remote",
+    "required_skills": [
+      "Python",
+      "NumPy",
+      "Pandas",
+      "Machine Learning",
+      "Git"
+    ],
+    "description": "Applied ML internship involving data preparation and model experimentation."
+  },
+  {
+    "title": "Frontend Developer Intern",
+    "company": "PixelRoute",
+    "location": "Ahmedabad",
+    "required_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Git"
+    ],
+    "description": "Frontend internship building responsive web experiences."
+  },
+  {
+    "title": "Full Stack Developer Intern",
+    "company": "BuildSprint",
+    "location": "Remote",
+    "required_skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "SQL",
+      "Git",
+      "REST API"
+    ],
+    "description": "Full-stack product development internship."
+  },
+  {
+    "title": "Software Engineer Intern",
+    "company": "CodeOrbit",
+    "location": "Bengaluru / Remote",
+    "required_skills": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "Problem Solving"
+    ],
+    "description": "Software engineering internship with strong CS fundamentals."
+  }
+]
